@@ -1,2 +1,2 @@
-# latest
-Latest Version of SandStat
+# SandStat
+This is repo manages the latest SandStat release.
